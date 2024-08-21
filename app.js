@@ -19,4 +19,3 @@ function copiar() {
     alert("Texto copiado al portapapeles: " + texto2)
     return;    
 }
-
